@@ -1,0 +1,7 @@
+In "data_metro.dat" e in "data_gibbs.dat" il contenuto è
+
+	temp  	u  	err_u  	c  	err_c  	x  	err_x  
+
+In "mag_metro.dat" e in "mag_gibbs.dat" il contenuto è
+
+	temp	m	err_m
